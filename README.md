@@ -1,4 +1,5 @@
-### Template react 
+# Template react 
+For a basic react template
 
 ## Installation 
 `npm i react`
