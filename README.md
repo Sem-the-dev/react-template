@@ -2,6 +2,7 @@
 
 ## Installation 
 `npm i react`
+`npm i react-dom`
 
 ## Usage
 - run `npm run dev`
