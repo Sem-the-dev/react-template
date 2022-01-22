@@ -15,6 +15,7 @@ install react `npm i react`
 install react dom `npm i react-dom`
 
 ## Usage
+- run `npm start`
 - run `npm run dev`
 - build for production `npm run build`
 - n.b tests aren't included 
